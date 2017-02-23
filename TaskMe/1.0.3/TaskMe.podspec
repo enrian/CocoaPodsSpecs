@@ -24,7 +24,7 @@ DESC
   s.source_files = 'TaskMe/*.swift'
 
   s.resource_bundles = {
-    'TaskMe' => ['TaskMe/*.xib', 'Resources/*.xcassets', 'Resources/*.storyboard', 'Settings.bundle']
+    'TaskMe' => ['TaskMe/*.xib', 'Resources/*.xcassets', 'Resources/*.storyboard', 'Resources/Settings.bundle']
   }
 
   s.frameworks = 'UIKit'
