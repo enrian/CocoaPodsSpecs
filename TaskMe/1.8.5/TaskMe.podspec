@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TaskMe'
-  s.version          = '1.8.4'
+  s.version          = '1.8.5'
   s.summary          = 'PersonalTouch TaskMe SDK library in Swift w/ Obj-C support'
   s.description      = <<-DESC
 The PersonalTouch TaskMe SDK provides a simple chat interface that works with Mattermost 3.5 servers. The intent
