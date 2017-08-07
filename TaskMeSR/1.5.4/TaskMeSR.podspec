@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TaskMeSR'
-  s.version          = '1.5.3'
+  s.version          = '1.5.4'
   s.summary          = 'PersonalTouch TaskMe SDK library in Swift w/ Obj-C support (SignalR)'
   s.description      = <<-DESC
 The PersonalTouch TaskMe SDK provides a simple chat interface that works with custom SignalR chat server. The 
